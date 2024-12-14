@@ -1,0 +1,44 @@
+2024-12-14 12:19:17,816 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-12-14 12:19:47,104 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-14 12:19:50,139 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.telusko:quizapp:0.0.1-SNAPSHOT @ /Users/purna/Downloads/quizapp-main/pom.xml.
+2024-12-14 12:19:52,858 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 12:19:52,881 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:19:52,886 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 12:19:53,476 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quizapp-main/src/main/java
+2024-12-14 12:19:53,478 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /quizapp-main/src/main/resources
+2024-12-14 12:19:53,486 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /quizapp-main/src/main/resources
+2024-12-14 12:19:53,494 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /quizapp-main/src/test/java
+2024-12-14 12:19:53,495 [Worker-6: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /quizapp-main/src/test/resources
+2024-12-14 12:19:59,876 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 12:19:59,894 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:19:59,906 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 12:20:00,191 [Worker-6: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 7.00 sec 
+2024-12-14 12:20:01,212 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 12:20:01,219 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:20:01,221 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 12:24:00,995 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:24:01,000 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:24:01,028 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 12:26:02,941 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 12:26:02,996 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:26:03,019 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 12:27:10,540 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 12:27:10,594 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 12:27:10,628 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 14:24:41,928 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 14:24:41,973 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 14:24:41,989 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 14:24:59,011 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.12; built: 2024-07-25T21:58:37.668Z; git: cc6f1b74db755fed228b50701ad967aeaa68e83f; jvm 21.0.4+7-LTS
+2024-12-14 14:24:59,079 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@1010f801{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@277d2f8b{STARTED}}
+2024-12-14 14:24:59,089 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-12-14 14:24:59,112 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@706b9a27{HTTP/1.1, (http/1.1)}{127.0.0.1:56608}
+2024-12-14 14:24:59,159 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6fe7c95f{STARTING}[12.0.12,sto=0] @883240ms
+2024-12-14 14:34:52,737 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 14:34:52,744 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 14:34:52,753 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 14:36:18,532 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-12-14 14:36:18,572 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-12-14 14:36:18,583 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/purna/Downloads/quizapp-main/src/test/resources
+2024-12-14 14:38:25,946 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6fe7c95f{STOPPING}[12.0.12,sto=0]
+2024-12-14 14:38:25,955 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@706b9a27{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-12-14 14:39:55,582 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
